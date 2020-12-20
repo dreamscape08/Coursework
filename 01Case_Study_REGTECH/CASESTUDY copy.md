@@ -132,7 +132,7 @@ ___
 
 # <div align = "center"> Resources
 
-## <div align = "center">   Websites
+## Websites
 
 + [FinTechBubble](https://medium.com/@balasanyan/fintech-bubble-the-end-is-near-634038d3d40d)
 
@@ -154,13 +154,13 @@ ___
 
 + [alt3 Partners](https://www.alt36.com/partners)
 
-## <div align="center">  Interviews
+## Interviews
 
 + [Testimony of Kevin Hart](https://www.cga.ct.gov/2018/GLdata/Tmy/2018HB-05458-R000315-Hart,%20Kevin,%20President-Green%20Check%20Verified-TMY.PDF)
 
 + [Report on Kevin Hart](https://cannagather.com/ct/march2019)
 
-## <div align="center">  Images/Charts
+## Images/Charts
 
 + [Market Sector Growth in RegTech](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
 
