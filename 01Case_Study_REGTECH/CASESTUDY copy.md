@@ -72,6 +72,8 @@ ___
 
   + GCV have a proven track record, and a working service that is currently pushing to scale their Financial Institutions to help boost the number of MRB that can bank through their software.
 
+  +
+
 + ### Which technologies are they currently using, and how are they implementing them?
 
   + KYC Automation, Remote Verification, Rfid Tracking and Inventory, Cash-Less Banking,
@@ -113,26 +115,13 @@ ___
 
 ## <div align="center"> Results
 
-+ ### What has been the business impact of this company so far?
-
-  + While working in the industry and seeing how a smaller startup is going about onboarding clients, it is evident that a unifide system needs to be written. IT is critical of legislation continues to progress in favor of Cannabis reform Nation-wide before the true effects of Mr.Harts efforts. He just like many others in the field are fighting to make it through to the end, Once cannabis becomes an inner-state commercially trafficed item, the system who has the most banks under their belt will come out on top. Fret not, it will take an entire team across the country to help establish relationships with every region full of potential waiting clients.  
++ There is still nationwide friction between banks and MRB with the first critical area at the start with onboarding clients, it is evident that a unifide system needs to be in place. There is a high degree of uncertantiy in moving forward making it critical that legislation continues to progress in favor of cannabis reform nationwide before the true efforts of Mr.Hart will be fully appreciated. He, just like many others in the field are fighting to make it through to the end with as much work done connecting as many banks and their business clients as possible. Once cannabis becomes an inner-state commercially trafficed item, the system who has the most banks under their belt will come out on top. It will take an entire team across the country to help establish relationships with every region full of potential waiting clients, with many consolidating and releasing their client information. With the likes of: "Deloitte, ACTICO, IBM Corporation, Broadridge Financial Solutions, PWC, McAfee, London Stock Exchange Group, Thompson Reuters, Jumio, and NICE Actimize, among others" it's hard not to see how any of these startups have any other choice.[13](https://www.prnewswire.com/news-releases/regtech-market-to-reach-usd-21-73-billion-by-2027--cagr-of-19-5--reports-and-data-301076807.html)  
   
 + ### What are some of the core metrics that companies in this domain use to measure success?
 
-  + Transaction overturn, Cash held, Amount of SAR's reported in a set amount of time, Clients onboarded per account, number of banks onboarded, amount of credit extended through their software. There are any number of ways to record metrics for a company like this, I think the main one is that they still provide a solution to a much ignored problem.
+  + Turnover Rate, Efficiency Ratio's, Cash held, Amount of SAR's reported in a set amount of time, Clients onboarded per account, number of banks onboarded, amount of credit extended through their software. There are any number of ways to record metrics for a company like this, I think the main one is that they still provide a solution to a much ignored problem.
 
-___
-
-
-## <div align="center"> Recommendations
-
-+ ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-+ ### Why do you think that offering this product or service would benefit the company?
-
-+ ### What technologies would this additional product or service utilize?
-
-+ ### Why are these technologies appropriate for your solution?
++ In general, this company doesnt have that many specific stats other than benchmark standards. However, Steven Kemmerling - Founder & CEO CRB Monitor, operates a database with over 36,000 direct marijuana-related businesses, 98,000 marijuana licenses and 62,000 beneficial owners, making CRB Monitor is the most comprehensive database on the marijuana industry. If there are that many owner, operators and third parties out there there is certainly a need that will be filled if GreenCheckVerified can stay afloat.[14](https://www.crbmonitor.com/resources/cannabis-banking-101-)
 
 #
 
