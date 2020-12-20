@@ -144,6 +144,8 @@ ___
 
 ## <div align = "center">   Websites
 
++ [FinTechBubble](https://medium.com/@balasanyan/fintech-bubble-the-end-is-near-634038d3d40d)
+
 + [GCV's White Paper](https://cdn2.hubspot.net/hubfs/5237927/Green%20Check%20Software%20Summary.pdf)
 
 + [World FinTech Report 2019](https://fintechworldreport.com/)
