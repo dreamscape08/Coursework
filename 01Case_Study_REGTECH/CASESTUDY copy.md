@@ -120,6 +120,7 @@ ___
 + ### What are some of the core metrics that companies in this domain use to measure success?
 
   + Turnover Rate, Efficiency Ratio's, Cash held, Amount of SAR's reported in a set amount of time, Clients onboarded per account, number of banks onboarded, amount of credit extended through their software. There are any number of ways to record metrics for a company like this, I think the main one is that they still provide a solution to a much ignored problem.
+  <img src="FINCEN.png">
 
 + In general, this company doesnt have that many specific stats other than benchmark standards. However, Steven Kemmerling - Founder & CEO CRB Monitor, operates a database with over 36,000 direct marijuana-related businesses, 98,000 marijuana licenses and 62,000 beneficial owners, making CRB Monitor is the most comprehensive database on the marijuana industry. If there are that many owner, operators and third parties out there there is certainly a need that will be filled if GreenCheckVerified can stay afloat.[14](https://www.crbmonitor.com/resources/cannabis-banking-101-)
 
