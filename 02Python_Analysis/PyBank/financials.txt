@@ -1,0 +1,19 @@
+
+Financial Analysis
+-------------------------------------
+Total months invested: 86 months
+Total years invested: 7.17 years
+# of profitable months: 74 months
+# of unprofitable months: 12 months
+-------------------------------------
+Total sum of loses: $-7327426
+Total sum of profits: $45710004
+Total revenue: $53037430
+Total net profit: $38382578
+-------------------------------------
+Net Monthly Avg: $446309.05
+Net Weekly Avg: $111577.26
+Net Daily Avg: $15939.61
+-------------------------------------
+Greatest Increase in Profits: Feb-2012 $1170593
+Greatest Decrease in Profits: Sep-2013 $-1196225
