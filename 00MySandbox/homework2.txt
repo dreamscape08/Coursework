@@ -1,0 +1,11 @@
+{'spicy miso ramen': {'count': 18476, 'revenue': 221712.0, 'cogs': 92380.0, 'net_profit': 129332.0,
+ 'tori paitan ramen': {'count': 18312, 'revenue': 238056.0, 'cogs': 109872.0, 'net_profit': 128184.0,
+ 'truffle butter ramen': {'count': 17964, 'revenue': 251496.0, 'cogs': 125748.0, 'net_profit': 125748.0,
+ 'tonkotsu ramen': {'count': 18576, 'revenue': 241488.0, 'cogs': 111456.0, 'net_profit': 130032.0,
+ 'vegetarian spicy miso': {'count': 18432, 'revenue': 221184.0, 'cogs': 92160.0, 'net_profit': 129024.0,
+ 'shio ramen': {'count': 18360, 'revenue': 201960.0, 'cogs': 91800.0, 'net_profit': 110160.0,
+ 'miso crab ramen': {'count': 17780, 'revenue': 213360.0, 'cogs': 106680.0, 'net_profit': 106680.0,
+ 'nagomi shoyu': {'count': 18264, 'revenue': 200904.0, 'cogs': 91320.0, 'net_profit': 109584.0,
+ 'soft-shell miso crab ramen': {'count': 18260, 'revenue': 255640.0, 'cogs': 127820.0, 'net_profit': 127820.0,
+ 'burnt garlic tonkotsu ramen': {'count': 18140, 'revenue': 253960.0, 'cogs': 108840.0, 'net_profit': 145120.0,
+ 'vegetarian curry + king trumpet mushroom ramen': {'count': 17648, 'revenue': 229424.0, 'cogs': 123536.0, 'net_profit': 105888.0}}
