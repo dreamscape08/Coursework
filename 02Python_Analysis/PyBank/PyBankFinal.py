@@ -5,8 +5,8 @@
 #output file is HW2 
 #%%
 import csv
-hw2 = '02Python_Analysis/PyBank/financials.txt'
-csvpath = '02Python_Analysis/PyBank/budget_data.csv'
+hw2 = 'PyBankOutput.txt'
+csvpath = 'budget_data.csv'
 with open(csvpath, 'r') as revenue_data:
     csvreader = csv.reader(revenue_data, delimiter = ",")
     csv_header = next(csvreader)    
