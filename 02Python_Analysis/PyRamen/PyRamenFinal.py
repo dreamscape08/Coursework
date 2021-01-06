@@ -32,8 +32,7 @@ for sale in sales:
     count=int(sale[3])
     row_count+=1
     if menu_item not in report.keys():
-        report[menu_item] = {
-        "count":count,}
+        report[menu_item] = {"count":count,}
     else: 
         report[menu_item]["count"] += count
 for line in menu:
